@@ -1,4 +1,4 @@
-# Multi-Layer-Electromagnetic-Side-Chanel-Attack-Prevention-
+# Multi Layer Electromagnetic Side-Chanel Attack Prevention Models for IoT
 
 #This research will explore commonly existing vulnerabilities in IoT devices. It will improve SCA detection accuracy and speed to provide countermeasures by using ML models and simulations against Electromagnetic(EM) Side-channel Attacks(SCA). 
 
